@@ -1,0 +1,249 @@
+object Form4: TForm4
+  Left = 634
+  Top = 140
+  Width = 387
+  Height = 372
+  BorderIcons = [biMinimize]
+  Caption = #1048#1089#1087#1088#1072#1074#1080#1090#1077#1083#1100
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'MS Sans Serif'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object sLabel1: TsLabel
+    Left = 8
+    Top = 16
+    Width = 330
+    Height = 72
+    Caption = 
+      #1050' '#1089#1086#1078#1072#1083#1077#1085#1080#1102' '#1090#1072#1082#1086#1075#1086' '#1089#1083#1086#1074#1072' '#1085#1077#1090'. '#13#10#1042#1099' '#1084#1086#1078#1077#1090#1077' '#1076#1086#1073#1072#1074#1080#1090#1100' '#1077#1075#1086', '#1079#1072#1087#1086#1083#1085#1080#1074 +
+      #13#10#1089#1083#1077#1076#1091#1102#1097#1080#1077' '#1087#1086#1083#1103':'
+    ParentFont = False
+    Font.Charset = RUSSIAN_CHARSET
+    Font.Color = 10329501
+    Font.Height = -21
+    Font.Name = 'Times New Roman'
+    Font.Style = [fsBold, fsItalic]
+  end
+  object sLabel2: TsLabel
+    Left = 40
+    Top = 96
+    Width = 121
+    Height = 28
+    Caption = #1055#1088#1080#1089#1090#1072#1074#1082#1080
+    ParentFont = False
+    Font.Charset = RUSSIAN_CHARSET
+    Font.Color = 10329501
+    Font.Height = -24
+    Font.Name = 'Times New Roman'
+    Font.Style = [fsBold, fsItalic]
+  end
+  object sLabel3: TsLabel
+    Left = 40
+    Top = 128
+    Width = 74
+    Height = 28
+    Caption = #1050#1086#1088#1077#1085#1100
+    ParentFont = False
+    Font.Charset = RUSSIAN_CHARSET
+    Font.Color = 10329501
+    Font.Height = -24
+    Font.Name = 'Times New Roman'
+    Font.Style = [fsBold, fsItalic]
+  end
+  object sLabel4: TsLabel
+    Left = 40
+    Top = 160
+    Width = 113
+    Height = 28
+    Caption = #1057#1091#1092#1092#1080#1082#1089#1099
+    ParentFont = False
+    Font.Charset = RUSSIAN_CHARSET
+    Font.Color = 10329501
+    Font.Height = -24
+    Font.Name = 'Times New Roman'
+    Font.Style = [fsBold, fsItalic]
+  end
+  object sLabel5: TsLabel
+    Left = 40
+    Top = 192
+    Width = 115
+    Height = 28
+    Caption = #1054#1082#1086#1085#1095#1072#1085#1080#1077
+    ParentFont = False
+    Font.Charset = RUSSIAN_CHARSET
+    Font.Color = 10329501
+    Font.Height = -24
+    Font.Name = 'Times New Roman'
+    Font.Style = [fsBold, fsItalic]
+  end
+  object sLabel6: TsLabel
+    Left = 40
+    Top = 224
+    Width = 76
+    Height = 28
+    Caption = #1054#1089#1085#1086#1074#1072
+    ParentFont = False
+    Font.Charset = RUSSIAN_CHARSET
+    Font.Color = 10329501
+    Font.Height = -24
+    Font.Name = 'Times New Roman'
+    Font.Style = [fsBold, fsItalic]
+  end
+  object sEdit1: TsEdit
+    Left = 184
+    Top = 104
+    Width = 121
+    Height = 27
+    Color = 1710618
+    Font.Charset = RUSSIAN_CHARSET
+    Font.Color = 10329501
+    Font.Height = -16
+    Font.Name = 'Times New Roman'
+    Font.Style = [fsBold, fsItalic]
+    ParentFont = False
+    TabOrder = 0
+    SkinData.SkinSection = 'EDIT'
+    BoundLabel.Indent = 0
+    BoundLabel.Font.Charset = DEFAULT_CHARSET
+    BoundLabel.Font.Color = clWindowText
+    BoundLabel.Font.Height = -11
+    BoundLabel.Font.Name = 'MS Sans Serif'
+    BoundLabel.Font.Style = []
+    BoundLabel.Layout = sclLeft
+    BoundLabel.MaxWidth = 0
+    BoundLabel.UseSkinColor = True
+  end
+  object sEdit2: TsEdit
+    Left = 184
+    Top = 136
+    Width = 121
+    Height = 27
+    Color = 1710618
+    Font.Charset = RUSSIAN_CHARSET
+    Font.Color = 10329501
+    Font.Height = -16
+    Font.Name = 'Times New Roman'
+    Font.Style = [fsBold, fsItalic]
+    ParentFont = False
+    TabOrder = 1
+    SkinData.SkinSection = 'EDIT'
+    BoundLabel.Indent = 0
+    BoundLabel.Font.Charset = DEFAULT_CHARSET
+    BoundLabel.Font.Color = clWindowText
+    BoundLabel.Font.Height = -11
+    BoundLabel.Font.Name = 'MS Sans Serif'
+    BoundLabel.Font.Style = []
+    BoundLabel.Layout = sclLeft
+    BoundLabel.MaxWidth = 0
+    BoundLabel.UseSkinColor = True
+  end
+  object sEdit3: TsEdit
+    Left = 184
+    Top = 168
+    Width = 121
+    Height = 27
+    Color = 1710618
+    Font.Charset = RUSSIAN_CHARSET
+    Font.Color = 10329501
+    Font.Height = -16
+    Font.Name = 'Times New Roman'
+    Font.Style = [fsBold, fsItalic]
+    ParentFont = False
+    TabOrder = 2
+    SkinData.SkinSection = 'EDIT'
+    BoundLabel.Indent = 0
+    BoundLabel.Font.Charset = DEFAULT_CHARSET
+    BoundLabel.Font.Color = clWindowText
+    BoundLabel.Font.Height = -11
+    BoundLabel.Font.Name = 'MS Sans Serif'
+    BoundLabel.Font.Style = []
+    BoundLabel.Layout = sclLeft
+    BoundLabel.MaxWidth = 0
+    BoundLabel.UseSkinColor = True
+  end
+  object sEdit4: TsEdit
+    Left = 184
+    Top = 200
+    Width = 121
+    Height = 27
+    Color = 1710618
+    Font.Charset = RUSSIAN_CHARSET
+    Font.Color = 10329501
+    Font.Height = -16
+    Font.Name = 'Times New Roman'
+    Font.Style = [fsBold, fsItalic]
+    ParentFont = False
+    TabOrder = 3
+    SkinData.SkinSection = 'EDIT'
+    BoundLabel.Indent = 0
+    BoundLabel.Font.Charset = DEFAULT_CHARSET
+    BoundLabel.Font.Color = clWindowText
+    BoundLabel.Font.Height = -11
+    BoundLabel.Font.Name = 'MS Sans Serif'
+    BoundLabel.Font.Style = []
+    BoundLabel.Layout = sclLeft
+    BoundLabel.MaxWidth = 0
+    BoundLabel.UseSkinColor = True
+  end
+  object sEdit5: TsEdit
+    Left = 184
+    Top = 232
+    Width = 121
+    Height = 27
+    Color = 1710618
+    Font.Charset = RUSSIAN_CHARSET
+    Font.Color = 10329501
+    Font.Height = -16
+    Font.Name = 'Times New Roman'
+    Font.Style = [fsBold, fsItalic]
+    ParentFont = False
+    TabOrder = 4
+    SkinData.SkinSection = 'EDIT'
+    BoundLabel.Indent = 0
+    BoundLabel.Font.Charset = DEFAULT_CHARSET
+    BoundLabel.Font.Color = clWindowText
+    BoundLabel.Font.Height = -11
+    BoundLabel.Font.Name = 'MS Sans Serif'
+    BoundLabel.Font.Style = []
+    BoundLabel.Layout = sclLeft
+    BoundLabel.MaxWidth = 0
+    BoundLabel.UseSkinColor = True
+  end
+  object sButton1: TsButton
+    Left = 168
+    Top = 288
+    Width = 73
+    Height = 33
+    Caption = #1054#1082
+    Font.Charset = RUSSIAN_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Times New Roman'
+    Font.Style = [fsBold, fsItalic]
+    ParentFont = False
+    TabOrder = 5
+    OnClick = sButton1Click
+    SkinData.SkinSection = 'BUTTON'
+  end
+  object sButton2: TsButton
+    Left = 272
+    Top = 288
+    Width = 73
+    Height = 33
+    Caption = #1054#1090#1084#1077#1085#1072
+    Font.Charset = RUSSIAN_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -13
+    Font.Name = 'Times New Roman'
+    Font.Style = [fsBold, fsItalic]
+    ParentFont = False
+    TabOrder = 6
+    OnClick = sButton2Click
+    SkinData.SkinSection = 'BUTTON'
+  end
+end
